@@ -15,6 +15,8 @@ public class MainController {
 	@Autowired
 	Infection inf;
 	
+	//123wqkjarfawrfaw
+	//1111
 	//123123rser
 	@RequestMapping("/main")
 	public ModelAndView getWeather(double lat, double lng) {
