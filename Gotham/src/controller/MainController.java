@@ -16,6 +16,8 @@ public class MainController {
 	Infection inf;
 	
 	//111111111
+	//123wqkjarfawrfaw
+	//1111
 	//123123rser
 	@RequestMapping("/main")
 	public ModelAndView getWeather(double lat, double lng) {
